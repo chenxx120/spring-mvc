@@ -1,0 +1,16 @@
+.*
+!.gitignore
+
+*.iml
+*.cmd
+target/
+out/
+test/
+mvnw
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.class
